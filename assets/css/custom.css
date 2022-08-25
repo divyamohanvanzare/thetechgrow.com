@@ -1,0 +1,65 @@
+.fixed-top{
+    background-color: black;
+}
+
+#header .logo img{
+    max-height: 70px;
+}
+
+#header.header-scrolled, #header.header-inner-pages{
+    background-color: black;
+}
+
+#hero{
+    background: #ffffff;
+
+}
+.imageAbout{
+    height: auto;
+    width: 90%;
+}
+
+#hero h1{
+    color: black;
+}
+
+#hero h2 {
+    color: rgb(0 141 162);
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.section-bgDif{
+    background-color: black;
+}
+#footer{
+  background-color:   #000000;
+}
+
+#hero{
+    background: #d8e9ff;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+.section-bgDif {
+    background-color: #005e8b;
+}
+
+.hero{
+    padding-top: 0px;
+
+}
+
+
+#hero{
+    height: 70vh;
+}
+
+#hero h1 {
+    font-size: 2.5rem;
+}
